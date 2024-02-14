@@ -1,22 +1,3 @@
-/*!
-
-=========================================================
-* Black Dashboard - v1.0.1
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/black-dashboard
-* Copyright 2019 Creative Tim (https://www.creative-tim.com)
-
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
-/*     brand Colors              */
-/* navbar color */
 :root {
   --blue: #5e72e4;
   --indigo: #5603ad;
@@ -1798,24 +1779,24 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #e14eca;
-  border-color: #e14eca;
+  background-color: #228B22;
+  border-color: #228B22;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); }
   .btn-primary:hover {
     color: #ffffff;
-    background-color: #db2dc0;
-    border-color: #d725bb; }
+    background-color: #228B22;
+    border-color: #228B22; }
   .btn-primary:focus, .btn-primary.focus {
-    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08), 0 0 0 0 rgba(230, 105, 210, 0.5); }
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08), 0 0 0 0 rgba(40, 182, 94, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #ffffff;
-    background-color: #e14eca;
-    border-color: #e14eca; }
+    background-color: #228B22;
+    border-color: #228B22; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
     color: #ffffff;
-    background-color: #d725bb;
-    border-color: #cd23b2; }
+    background-color: #228B22;
+    border-color:#228B22; }
     .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0 rgba(230, 105, 210, 0.5); }
@@ -2085,22 +2066,22 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0 rgba(38, 38, 38, 0.5); }
 
 .btn-outline-primary {
-  color: #e14eca;
-  border-color: #e14eca; }
+  color: #228B22;
+  border-color: #228B22; }
   .btn-outline-primary:hover {
     color: #ffffff;
-    background-color: #e14eca;
-    border-color: #e14eca; }
+    background-color: #228B22;
+    border-color: #228B22; }
   .btn-outline-primary:focus, .btn-outline-primary.focus {
     box-shadow: 0 0 0 0 rgba(225, 78, 202, 0.5); }
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #e14eca;
+    color: #228B22;
     background-color: transparent; }
   .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
   .show > .btn-outline-primary.dropdown-toggle {
     color: #ffffff;
-    background-color: #e14eca;
-    border-color: #e14eca; }
+    background-color: #228B22;
+    border-color: #228B22; }
     .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0 rgba(225, 78, 202, 0.5); }
@@ -8650,11 +8631,11 @@ a.text-darker:hover, a.text-darker:focus {
     margin-left: 30px !important; }
 
 .btn-primary {
-  background: #e14eca;
-  background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca);
+  background: #228B22;
+  background-image: linear-gradient(to bottom left, #228B22, #0a573d, #228B22);
   background-size: 210% 210%;
   background-position: top right;
-  background-color: #e14eca;
+  background-color: #228B22;
   transition: all 0.15s ease;
   box-shadow: none;
   color: #ffffff; }
@@ -8663,8 +8644,8 @@ a.text-darker:hover, a.text-darker:focus {
     transition: 0.3s ease-in-out; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover {
     background-color: #ba54f5 !important;
-    background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
-    background-image: -moz-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
+    background-image: linear-gradient(to bottom left, #228B22, #0a573d, #228B22) !important;
+    background-image: -moz-linear-gradient(to bottom left, #228B22, #0a573d, #228B22) !important;
     color: #ffffff;
     box-shadow: none; }
   .btn-primary:active {
@@ -8682,29 +8663,29 @@ a.text-darker:hover, a.text-darker:focus {
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:active,
   fieldset[disabled] .btn-primary.active {
-    background-color: #e14eca;
-    border-color: #e14eca; }
+    background-color: #228B22;
+    border-color: #228B22; }
   .btn-primary.btn-simple {
-    color: #e14eca;
-    border-color: #e14eca;
+    color: #228B22;
+    border-color: #228B22;
     background: transparent; }
     .btn-primary.btn-simple:hover, .btn-primary.btn-simple:focus, .btn-primary.btn-simple:active, .btn-primary.btn-simple:not(:disabled):not(.disabled):active {
-      color: #e14eca;
-      border-color: #e14eca;
+      color: #228B22;
+      border-color: #228B22;
       background-color: transparent !important;
       background-image: none !important;
       box-shadow: none; }
     .btn-primary.btn-simple.active {
-      border-color: #e14eca !important; }
+      border-color: #228B22 !important; }
       .btn-primary.btn-simple.active:hover, .btn-primary.btn-simple.active:focus, .btn-primary.btn-simple.active:active, .btn-primary.btn-simple.active:not(:disabled):not(.disabled):active {
         color: #ffffff;
-        border-color: #e14eca;
-        background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
-        background-image: -moz-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
-        background-color: #ba54f5 !important;
+        border-color: #228B22;
+        background-image: linear-gradient(to bottom left, #228B22, #0a573d, #228B22) !important;
+        background-image: -moz-linear-gradient(to bottom left, #228B22, #0a573d, #228B22) !important;
+        background-color:  !important;
         box-shadow: none; }
   .btn-primary.btn-link {
-    color: #e14eca; }
+    color: #228B22; }
     .btn-primary.btn-link:hover, .btn-primary.btn-link:focus, .btn-primary.btn-link:active {
       background-color: transparent !important;
       background-image: none !important;
@@ -11297,8 +11278,8 @@ table.tablesorter thead tr .headerSortDown {
 
 .sidebar,
 .off-canvas-sidebar {
-  background: #ba54f5;
-  background: linear-gradient(0deg, #ba54f5 0%, #e14eca 100%);
+  background: #05b33c;
+  background: linear-gradient(0deg, #05b33c 0%, #05b33c 100%);
   height: calc(100vh - 90px);
   width: 230px;
   position: fixed;
